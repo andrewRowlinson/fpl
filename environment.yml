@@ -1,0 +1,19 @@
+name: fpl
+channels:
+  - anaconda
+dependencies:
+  - jupyter
+  - pandas
+  - scipy
+  - seaborn
+  - beautifulsoup4
+  - lxml
+  - pyarrow
+  - scikit-learn
+  - pillow
+  - openpyxl
+  - pillow
+  - requests
+  - pip
+  - pip:
+      - shap
